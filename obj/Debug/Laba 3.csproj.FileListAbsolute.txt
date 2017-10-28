@@ -1,0 +1,7 @@
+D:\1учеба 2017\ооп\Laba 3\Laba 3\bin\Debug\Laba 3.exe.config
+D:\1учеба 2017\ооп\Laba 3\Laba 3\bin\Debug\Laba 3.exe
+D:\1учеба 2017\ооп\Laba 3\Laba 3\bin\Debug\Laba 3.pdb
+D:\1учеба 2017\ооп\Laba 3\Laba 3\obj\Debug\Laba 3.csprojResolveAssemblyReference.cache
+D:\1учеба 2017\ооп\Laba 3\Laba 3\obj\Debug\Laba 3.exe
+D:\1учеба 2017\ооп\Laba 3\Laba 3\obj\Debug\Laba 3.pdb
+D:\1учеба 2017\ооп\Laba 3\Laba 3\obj\Debug\Laba 3.csproj.CoreCompileInputs.cache
